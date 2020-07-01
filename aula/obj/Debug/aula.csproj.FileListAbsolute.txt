@@ -1,0 +1,14 @@
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\bin\Debug\aula.exe.config
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\bin\Debug\aula.exe
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\bin\Debug\aula.pdb
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\bin\Debug\MySql.Data.dll
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\bin\Debug\Google.Protobuf.dll
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\bin\Debug\Renci.SshNet.dll
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\bin\Debug\MySql.Data.xml
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\obj\Debug\aula.MainForm.resources
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\obj\Debug\aula.exe
+C:\Users\Wariston Pereira\Desktop\aula\aula\aula\obj\Debug\aula.pdb

@@ -1,0 +1,21 @@
+C:\Users\heber\source\repos\aula\aula\obj\Debug\Like.csprojAssemblyReference.cache
+C:\Users\heber\source\repos\aula\aula\obj\Debug\aula.Like.resources
+C:\Users\heber\source\repos\aula\aula\obj\Debug\Like.csproj.GenerateResource.cache
+C:\Users\heber\source\repos\aula\aula\obj\Debug\Like.csproj.CoreCompileInputs.cache
+C:\Users\heber\source\repos\aula\aula\obj\Debug\aula.exe
+C:\Users\heber\source\repos\aula\aula\obj\Debug\aula.pdb
+F:\Visual Studio 2015\Projects\Teste-master\aula\bin\Debug\aula.exe.config
+F:\Visual Studio 2015\Projects\Teste-master\aula\obj\Debug\aula.exe
+F:\Visual Studio 2015\Projects\Teste-master\aula\obj\Debug\aula.pdb
+F:\Visual Studio 2015\Projects\Teste-master\aula\bin\Debug\aula.exe
+F:\Visual Studio 2015\Projects\Teste-master\aula\bin\Debug\aula.pdb
+F:\Visual Studio 2015\Projects\Teste-master\aula\bin\Debug\MySql.Data.dll
+F:\Visual Studio 2015\Projects\Teste-master\aula\bin\Debug\Google.Protobuf.dll
+F:\Visual Studio 2015\Projects\Teste-master\aula\bin\Debug\BouncyCastle.Crypto.dll
+F:\Visual Studio 2015\Projects\Teste-master\aula\bin\Debug\Ubiety.Dns.Core.dll
+F:\Visual Studio 2015\Projects\Teste-master\aula\bin\Debug\Renci.SshNet.dll
+F:\Visual Studio 2015\Projects\Teste-master\aula\bin\Debug\MySql.Data.xml
+F:\Visual Studio 2015\Projects\Teste-master\aula\obj\Debug\Like.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\Projects\Teste-master\aula\obj\Debug\aula.Like.resources
+F:\Visual Studio 2015\Projects\Teste-master\aula\obj\Debug\Like.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\Projects\Teste-master\aula\obj\Debug\aula.Properties.Resources.resources
